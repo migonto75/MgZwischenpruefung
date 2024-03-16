@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MgZwischenpruefung:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MgZwischenpruefung_jar</output-path>
+    <root id="archive" name="MgZwischenpruefung.jar">
+      <element id="module-output" name="MgZwischenpruefung" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jars/ConsoleReaderLib.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
